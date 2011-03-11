@@ -1,0 +1,3119 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:34:29) [GET]
+
+ActionController::RoutingError (No route matches "/applications" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:44:12) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:29) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:50:23) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:50:23) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:50:23) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:50:23) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:50:23) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:50:23) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:04) [GET]
+
+ActionController::RoutingError (No route matches "/images/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:04) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:04) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:04) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:04) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:04) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/images/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/images/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/images/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:06) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:26) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:26) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:26) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:26) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:26) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:39) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:39) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:39) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:39) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:51:39) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:52:23) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:52:23) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:52:23) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:52:23) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:52:23) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:14) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:14) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:14) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:14) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:19) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:19) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:19) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:19) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:23) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:23) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:23) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:23) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:36) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:36) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:36) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:55:36) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:56:29) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:56:29) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:56:29) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:56:30) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:20) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:20) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:20) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:20) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:49) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:49) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:49) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:58:49) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:42) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:42) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:42) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 16:59:42) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:18:08) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:18:08) [GET]
+
+ActionController::RoutingError (No route matches "/images/.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:18:08) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:18:08) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:18:08) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:13) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:14) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:14) [GET]
+
+ActionController::RoutingError (No route matches "/images/Chicken-masala.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:14) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:14) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:14) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:46) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:46) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:46) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:46) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:24:46) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:28:38) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:28:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:28:38) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:28:38) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:28:38) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:15) [GET]
+
+ActionController::RoutingError (No route matches "/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:15) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:15) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:15) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:15) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:15) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:34) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:34) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:34) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:34) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:34) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:34) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:50) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:50) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:50) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:50) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:50) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:29:50) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:19) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:19) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:19) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:19) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:19) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:19) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:40) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:40) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:40) [GET]
+
+ActionController::RoutingError (No route matches "/images/sona.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:40) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:40) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:40) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:52) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:52) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:52) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:52) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:30:52) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:31:41) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:31:41) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:31:41) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:31:41) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:31:41) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:32:34) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:32:34) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:32:34) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:32:34) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:32:34) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:58) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:58) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:58) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:58) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:33:58) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:18) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:18) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:18) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:18) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:18) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:37) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:37) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:37) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:37:37) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:05) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:05) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:05) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:05) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:05) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:23) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:23) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:23) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:23) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:23) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:38:41) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:40:29) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:41:45) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:42:04) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:42:58) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:43:25) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:43:37) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:49:09) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:49:41) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:49:44) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:49:44) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:49:45) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:50:20) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:50:43) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:51:12) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:52:26) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:52:52) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:54:18) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:54:22) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:54:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:54:48) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 17:55:12) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 20:41:09) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-23 20:41:25) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-24 22:48:09) [GET]
+
+ActionController::RoutingError (No route matches "/about.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-25 22:42:56) [GET]
+
+ActionController::RoutingError (No route matches "/images/namaste.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-25 23:54:51) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/swamy.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-25 23:54:53) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/swamy.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-02-25 23:55:26) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/swamy.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.4ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("schema_migrations")[0m
+  [4;36;1mSQL (20.7ms)[0m   [0;1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20110227224606)
+  [4;35;1mSQL (0.4ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar(255), "email" varchar(255), "confirmation_token" varchar(255), "password" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20110227224606')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-05 00:49:46) [GET]
+
+ActionController::RoutingError (No route matches "/register.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-05 22:28:43) [GET]
+
+ActionController::RoutingError (No route matches "/register.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-05 22:36:26) [GET]
+
+ActionController::RoutingError (No route matches "/register.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-05 22:36:28) [GET]
+
+ActionController::RoutingError (No route matches "/register.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-05 22:38:56) [GET]
+
+ActionController::RoutingError (No route matches "/register.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing UserController#create (for 127.0.0.1 at 2011-03-05 22:40:53) [GET]
+
+ActionView::MissingTemplate (Missing template user/create.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UserController#create (for 127.0.0.1 at 2011-03-05 22:41:00) [GET]
+
+ActionView::MissingTemplate (Missing template user/create.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UserController#create (for 127.0.0.1 at 2011-03-05 22:41:01) [GET]
+
+ActionView::MissingTemplate (Missing template user/create.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 21:54:54) [GET]
+
+ActionView::MissingTemplate (Missing template products/show_contact_page.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 21:55:22) [GET]
+Rendering products/show_contact_page
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-07 21:58:10) [GET]
+Rendering products/show
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-07 21:58:13) [GET]
+Rendering products/show_new_products
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 21:58:17) [GET]
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-07 22:01:28) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:02:12) [GET]
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:05:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:06:53) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:07:59) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:08:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:08:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:08:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:08:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:08:42) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-07 22:08:50) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-07 22:08:53) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 22:08:58) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-07 22:09:02) [GET]
+
+ActionController::RoutingError (No route matches "/home" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:09:35) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:09:38) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:11:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:13:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:27:17) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:32:10) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:32:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:32:51) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:37:22) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:37:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:38:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:39:09) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:39:10) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:41:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:42:48) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:44:27) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:45:03) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:45:27) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:45:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:46:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:47:35) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:47:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:47:53) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:48:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:48:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:48:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 192.168.2.7 at 2011-03-07 22:48:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:49:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:50:03) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:52:14) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:52:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:53:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:53:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:59:27) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 22:59:38) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:02:17) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:03:52) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:04:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:05:26) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:07:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:08:27) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:08:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:08:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:09:02) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:09:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:09:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:09:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:11:03) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:11:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:12:10) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:12:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:13:15) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:13:38) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:13:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:13:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:15:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:15:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:15:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:16:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:17:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:17:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:18:01) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:18:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-07 23:18:06) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-07 23:18:06) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:18:08) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:18:19) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:19:42) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:19:57) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:20:31) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:21:21) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:21:48) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:21:55) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-07 23:22:01) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:22:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:24:37) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:26:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:27:01) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:27:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-07 23:27:28) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:02:17) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:02:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:02:20) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:02:20) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:02:21) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:11:15) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:11:18) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:11:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:11:52) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:11:55) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:12:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-08 00:12:39) [GET]
+
+ActionController::RoutingError (No route matches "/public/images/boost.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:13:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:14:07) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:14:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:15:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:15:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:17:02) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:18:07) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:18:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:26:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:27:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:28:24) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:32:15) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:35:52) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:36:56) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:37:52) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:38:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:38:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:39:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:39:33) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:40:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:42:30) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:43:14) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:43:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:43:48) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-08 00:44:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:21:48) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 93ms (View: 91, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:23:30) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:23:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:42:48) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:44:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:46:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:46:42) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:47:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:48:14) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:49:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:49:33) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:49:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:49:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:50:09) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:50:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:50:37) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:50:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:51:03) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:52:09) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:52:10) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:52:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 18:52:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-10 21:24:45) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 30ms (View: 28, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:24:47) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-10 21:24:52) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 28ms (View: 27, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:24:56) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-10 21:24:57) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:24:59) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:25:01) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-10 21:25:02) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:25:08) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:25:33) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:26:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:26:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-10 21:27:03) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-10 21:27:07) [GET]
+
+ActionController::RoutingError (No route matches "/register" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:29:28) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:30:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:30:53) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:31:05) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:31:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:32:33) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:32:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 93ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:33:24) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:36:24) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-10 21:36:27) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:36:34) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:37:27) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:37:27) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:37:27) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-10 21:37:27) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-10 21:37:32) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-10 21:37:38) [GET]
+
+ActionController::RoutingError (No route matches "/register" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-10 21:37:45) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-10 21:38:39) [GET]
+
+ActionController::RoutingError (No route matches "/login" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-10 21:38:51) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]

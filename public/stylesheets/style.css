@@ -1,0 +1,69 @@
+body {
+    background-color:#708090;
+    margin-left:auto;
+	margin-right:auto;
+    }
+#image{opacity:0.5;	}
+
+#twitter{
+	position:fixed;
+	top:5px;
+	left:1310px;
+	height:2em;
+	width:2em;
+		}
+#login{
+	position:absolute;
+	left:1200px;
+	top:10px;
+}
+
+#register{
+	position:absolute;
+	left:1245px;
+	top:10px;
+}
+		
+#namaste{
+	position:fixed;
+	left:5px;
+	top:5px;
+	height:8em;
+	width:8em;
+}
+
+#links{
+	position:absolute;
+	top:170px;
+	left:200px;
+	color:blue;
+	font-size:19;
+}
+
+td {
+	width:190px;
+	}
+h1{color:white;}
+
+#image_gallery{
+	position:absolute;
+	top:400px;
+	left:100px;
+}
+
+#section_right{
+	position:absolute;
+	left:1200px;
+}
+#discount{
+	position:fixed;
+ 	top:350px;	
+	height:10em;
+	width:10em;
+	left:1200px;
+}
+#signup{
+	position:fixed;
+ 	top:100px;
+    left:1230px;
+}
