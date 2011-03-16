@@ -9473,3 +9473,63 @@ ActionController::RoutingError (No route matches "/applications/39/jobs/refresh_
   
 
 Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-15 22:07:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 49ms (View: 48, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-15 22:08:01) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 76ms (View: 75, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-15 22:08:03) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-15 22:08:05) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-03-15 22:08:40) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-03-15 22:08:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-15 22:08:49) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-15 22:09:30) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#show_new_products (for 127.0.0.1 at 2011-03-15 22:09:35) [GET]
+Rendering template within layouts/products
+Rendering products/show_new_products
+Completed in 76ms (View: 6, DB: 0) | 200 OK [http://localhost/new_stuff]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-03-15 22:09:37) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/products]
