@@ -2,6 +2,10 @@ body {
     background-color:#708090;
     margin-left:auto;
 	margin-right:auto;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-right:50px;
+	padding-left:50px;
     }
 #image{opacity:0.1;	}
 
@@ -25,7 +29,7 @@ body {
 }
 		
 #namaste{
-	position:fixed;
+	position:absolute;
 	left:5px;
 	top:5px;
 	height:8em;
@@ -47,25 +51,32 @@ h1{color:white;}
 
 #image_gallery{
 	position:absolute;
-	top:400px;
+	top:350px;
 	left:100px;
+	height:30px;
+	width:300px;
 }
 
 #section_right{
-	position:absolute;
-	left:1200px;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-right:50px;
+	padding-left:50px;
 }
+
 #discount{
-	position:fixed;
- 	top:350px;	
-	height:10em;
-	width:10em;
-	left:1200px;
+	position:absolute;
+ 	top:500px;	
+	height:9em;
+	width:9em;
+	left:1100px;
+	decoration:blink;
 }
+
 #signup{
-	position:fixed;
- 	top:100px;
-    left:1230px;
+	position:absolute;
+ 	top:250px;
+    left:1070px;
 }
 
 #map{
@@ -83,8 +94,8 @@ h1{color:white;}
 }
 
 #text{
-	position:fixed;
-    left:450px;
+	position:absolute;
+    left:400px;
     top:400px;
 text-align:justify;
 font-family:"cursive",Zapf Chancery, cursive;
