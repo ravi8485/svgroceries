@@ -12,19 +12,19 @@ body {
 #twitter{
 	position:fixed;
 	top:5px;
-	left:1310px;
+	left:1210px;
 	height:2em;
 	width:2em;
 		}
 #login{
 	position:absolute;
-	left:1200px;
+	left:1100px;
 	top:10px;
 }
 
 #register{
 	position:absolute;
-	left:1245px;
+	left:1145px;
 	top:10px;
 }
 		
