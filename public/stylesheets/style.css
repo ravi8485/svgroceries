@@ -52,7 +52,10 @@ td {
 h1 { 
 	color:white;
 	}
-
+h2{
+	position:center;
+	color:blue;
+}
 #image_gallery{
 	position:absolute;
 	top:350px;
@@ -100,10 +103,11 @@ h1 {
 #text{
 	position:absolute;
     left:400px;
-    top:400px;
+    top:350px;
     text-align:justify;
     font-family:"cursive",Zapf Chancery, cursive;
     line-height:2em;
     height:40px;
     width:600px;
+    
      }
