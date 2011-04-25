@@ -1,0 +1,28 @@
+<h1>Register Now </h1>
+
+<% form_for (@user,:url => {:action=> 'create'}) do |f| %>
+<table>
+  <tr>
+    <td><b>First Name:</b></td>
+    <td><%= f.text_field :first_name %></td>
+  </tr>
+  <tr>
+    <td><b>Last Name:</b></td>
+    <td><%= f.text_field :last_name %></td>
+  </tr>
+  <tr>
+    <td><b>Username:</b></td>
+    <td><%= f.text_field :username %></td>
+  </tr>
+  <tr>
+    <td><b>Password:</b></td>
+    <td><%= f.password_field :password %></td>
+  </tr>
+  <tr>
+   <td><b>Email:</b></td>
+   <td><%= f.text_field :email %></td>
+  </tr><tr></tr><tr></tr><tr></tr>
+  <tr><td><%= f.submit 'Sign up' %></td></tr>
+</table>
+<% end %>
+

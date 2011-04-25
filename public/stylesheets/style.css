@@ -1,5 +1,5 @@
 body {
-    background-color:#708090;
+    background-color:white;
     margin-left:auto;
 	margin-right:auto;
 	padding-top:25px;
@@ -31,16 +31,16 @@ body {
 		
 #namaste{
 	position:absolute;
-	left:5px;
-	top:5px;
+	left:15px;
+	top:15px;
 	height:8em;
 	width:8em;
          }
 
 #links{
 	position:absolute;
-	top:120px;
-	left:200px;
+	top:160px;
+	left:260px;
 	color:black;
 	font-size:19;
 }
@@ -53,7 +53,9 @@ h1 {
 	color:white;
 	}
 h2{
-	position:center;
+	position:absolute;
+	top:400px;
+	left:400px;
 	color:blue;
 }
 #image_gallery{
@@ -86,6 +88,14 @@ h2{
     left:1020px;
        }
 
+	#soon{
+		position:absolute;
+	 	top:200px;
+	    left:1020px;
+		height:10em;
+		width:11em;
+	
+	       }
 #map{
 	position:fixed;
 	top:300px;

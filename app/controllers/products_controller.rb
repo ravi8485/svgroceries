@@ -1,11 +1,9 @@
 class ProductsController < ApplicationController
 
-  def show
-         
+  def show 
   end
 
   def show_contact_page
-    #show the contact page
   end
 
 end
