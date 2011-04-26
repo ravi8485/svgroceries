@@ -14045,3 +14045,1221 @@ Processing ProductsController#index (for 192.168.2.11 at 2011-04-25 02:44:58) [G
 Rendering template within layouts/products
 Rendering products/index
 Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.2.5/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 13:22:35) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 173ms (View: 171, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-04-25 13:22:39) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 90ms (View: 20, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:02:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 103ms (View: 101, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:10:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 78ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:11:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:11:59) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:12:06) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:12:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:13:27) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:14:06) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:18:51) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:19:55) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:19:56) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:19:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:19:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:19:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:20:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:21:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:22:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:22:37) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:22:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:23:06) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:23:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:23:31) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:25:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:25:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:26:08) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:27:18) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:27:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:28:14) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:28:55) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:30:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:31:07) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:32:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:33:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:34:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:35:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:35:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-04-25 23:39:28) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/show]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:47:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:47:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:48:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:49:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:49:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:49:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:49:21) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:49:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:50:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:50:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:50:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:50:56) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:51:20) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:51:43) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:51:56) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 72ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:52:40) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:53:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:53:22) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:54:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:58:37) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-25 23:59:08) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:03:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:03:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:04:28) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:04:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:05:21) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:06:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:06:26) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:06:26) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:06:26) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:06:28) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:07:33) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:07:42) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:08:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:03) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:47) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:09:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:10:01) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:10:10) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 75ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:10:51) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:16:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:16:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:18:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:19:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#show (for 127.0.0.1 at 2011-04-26 00:20:55) [GET]
+Rendering template within layouts/products
+Rendering products/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/show]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:21:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:21:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:22:01) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:24:24) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:24:51) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:25:05) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:27:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:27:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:35:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:36:37) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:39:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:40:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:41:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:41:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:42:06) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:42:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:42:30) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:42:30) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:43:27) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:43:52) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:44:20) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:44:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:44:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:45:24) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:48:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:48:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:48:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:49:45) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:50:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:50:48) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:50:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:50:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:50:49) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:51:55) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:52:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:53:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:53:09) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:53:17) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:53:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:53:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:53:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:54:08) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:54:15) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:54:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:55:07) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:55:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 00:56:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:02:59) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:03:22) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:04:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:04:50) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:07:24) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:07:53) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 80ms (View: 79, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:08:09) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:12:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:16:16) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:16:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:18:00) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:18:42) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:19:38) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:20:22) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:20:55) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:24:01) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:24:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:25:41) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:25:57) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:26:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:26:43) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:27:06) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#show_contact_page (for 127.0.0.1 at 2011-04-26 01:31:13) [GET]
+Rendering template within layouts/products
+Rendering products/show_contact_page
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/contact]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:32:15) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:32:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:33:23) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 25ms (View: 19, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:34:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:35:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:35:57) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:37:25) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 75ms (View: 73, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:38:07) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:38:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:39:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:39:20) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:40:08) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:40:20) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:43:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:44:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:44:30) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:44:48) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:45:03) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:45:13) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:45:39) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:45:53) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:47:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:47:38) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:48:11) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:49:28) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:49:35) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:49:57) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:50:06) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:50:12) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:50:19) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 66ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:50:42) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:55:58) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:56:26) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:56:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:56:43) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:56:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:57:34) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:57:56) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:58:08) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:58:32) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:58:38) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:58:44) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:58:54) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:59:04) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2011-04-26 01:59:29) [GET]
+Rendering template within layouts/products
+Rendering products/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]

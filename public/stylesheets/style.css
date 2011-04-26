@@ -23,30 +23,24 @@ body {
 	top:10px;
       }
 
-#register{
-	position:absolute;
-	left:1145px;
-	top:10px;
-         }
 		
 #namaste{
-	position:absolute;
-	left:15px;
-	top:15px;
 	height:8em;
-	width:8em;
+	width:20em;
          }
 
 #links{
 	position:absolute;
-	top:160px;
-	left:260px;
+	top:200px;
+	left:70px;
+	z-index:1000;
 	color:black;
-	font-size:19;
-}
-
+	font-size:22px;
+	font-weight:bold;
+	background: url(/images/grey.gif) repeat-x;
+	  }
 td {
-	width:190px;
+	width:300px;
 	}
 	
 h1 { 
@@ -60,14 +54,12 @@ h2{
 }
 #image_gallery{
 	position:absolute;
-	top:350px;
-	left:100px;
-	height:30px;
-	width:300px;
-             }
+	top:250px;
+	left:50px;
+	right:50px;}
 
 #section_right{
-	padding-top:25px;
+	padding-top:30px;
 	padding-bottom:25px;
 	padding-right:50px;
 	padding-left:50px;
@@ -90,12 +82,11 @@ h2{
 
 	#soon{
 		position:absolute;
-	 	top:200px;
-	    left:1020px;
-		height:10em;
-		width:11em;
-	
-	       }
+	 	top:470px;
+	    left:960px;
+		height:8em;
+		width:9em;
+	     }
 #map{
 	position:fixed;
 	top:300px;
@@ -112,12 +103,52 @@ h2{
 
 #text{
 	position:absolute;
-    left:400px;
-    top:350px;
+    left:150px;
+    top:500px;
     text-align:justify;
     font-family:"cursive",Zapf Chancery, cursive;
     line-height:2em;
     height:40px;
     width:600px;
     
+     }
+
+#logo{
+position:absolute;
+top:35px;
+left:500px;
+
+}
+
+#great{	
+	position:absolute;
+	top:1px;
+	z-index:1000;
+	font-family:"cursive",Zapf Chancery, cursive;
+	line-height:2em;
+	font-size:20px;
+	color:red;	
+}
+
+#god{
+	position:absolute;
+    top:5px;
+    left:50px;
+	height:12em;
+	width:12em;	
+}
+#section_down{
+	position:absolute;
+    bottom:1px;
+    left:50px;
+    right:50px;              
+	background: url(/images/grey.gif) repeat-x;
+}
+
+#reg{
+	position:absolute;
+ 	top:90px;
+    left:975px;
+	height:6em;
+	width:6em;
      }
