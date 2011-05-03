@@ -37,7 +37,6 @@ body {
 	color:black;
 	font-size:22px;
 	font-weight:bold;
-	background: url(/images/grey.gif) repeat-x;
 	  }
 td {
 	width:300px;
@@ -50,7 +49,7 @@ h2{
 	position:absolute;
 	top:400px;
 	left:400px;
-	color:blue;
+	color:black;
 }
 #image_gallery{
 	position:absolute;
@@ -80,13 +79,14 @@ h2{
     left:1020px;
        }
 
-	#soon{
-		position:absolute;
-	 	top:470px;
-	    left:960px;
-		height:8em;
-		width:9em;
-	     }
+#soon{
+	position:absolute;
+ 	top:470px;
+    left:960px;
+	height:8em;
+	width:9em;
+     }
+
 #map{
 	position:fixed;
 	top:300px;
@@ -142,7 +142,6 @@ left:500px;
     bottom:1px;
     left:50px;
     right:50px;              
-	background: url(/images/grey.gif) repeat-x;
 }
 
 #reg{
