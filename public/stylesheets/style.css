@@ -88,7 +88,7 @@ h2{
      }
 
 #map{
-	position:fixed;
+	position:absolute;
 	top:300px;
 	left:800px;
 	height:20em;
@@ -96,9 +96,9 @@ h2{
      }
 
 #contact_info{
-	position:fixed;
+	position:absolute;
 	top:350px;
-	left:400px;	
+	left:350px;	
      }
 
 #text{
