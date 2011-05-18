@@ -1,0 +1,153 @@
+body {
+    background-color:white;
+    margin-left:auto;
+	margin-right:auto;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-right:50px;
+	padding-left:50px;
+    }
+#image{opacity:0.1;	}
+
+#twitter{
+	position:absolute;
+	top:5px;
+	left:1210px;
+	height:2em;
+	width:2em;
+		}
+		
+#login{
+	position:absolute;
+	left:1100px;
+	top:10px;
+      }
+
+		
+#namaste{
+	height:8em;
+	width:20em;
+         }
+
+#links{
+	position:absolute;
+	top:200px;
+	left:70px;
+	z-index:1000;
+	color:black;
+	font-size:22px;
+	font-weight:bold;
+	  }
+td {
+	width:300px;
+	}
+	
+h1 { 
+	color:white;
+	}
+h2{
+	position:absolute;
+	top:400px;
+	left:400px;
+	color:black;
+}
+#image_gallery{
+	position:absolute;
+	top:250px;
+	left:50px;
+	right:50px;}
+
+#section_right{
+	padding-top:30px;
+	padding-bottom:25px;
+	padding-right:50px;
+	padding-left:50px;
+              }
+
+#discount{
+	position:absolute;
+ 	top:500px;	
+	height:9em;
+	width:9em;
+	left:1050px;
+	decoration:blink;
+         }
+
+#signup{
+	position:absolute;
+ 	top:250px;
+    left:1020px;
+       }
+
+#soon{
+	position:absolute;
+ 	top:470px;
+    left:960px;
+	height:8em;
+	width:9em;
+     }
+
+#map{
+	position:absolute;
+	top:300px;
+	left:800px;
+	height:20em;
+	width:20em;
+     }
+
+#contact_info{
+	position:absolute;
+	top:350px;
+	left:350px;	
+     }
+
+#text{
+	position:absolute;
+    left:150px;
+    top:500px;
+    text-align:justify;
+    font-family:"cursive",Zapf Chancery, cursive;
+    line-height:2em;
+    height:40px;
+    width:600px;
+    
+     }
+
+#logo{
+position:absolute;
+top:35px;
+left:500px;
+
+}
+
+#great{	
+	position:absolute;
+	top:1px;
+	z-index:1000;
+	font-family:"cursive",Zapf Chancery, cursive;
+	line-height:2em;
+	font-size:20px;
+	color:red;	
+}
+
+#god{
+	position:absolute;
+    top:5px;
+    left:50px;
+	height:12em;
+	width:12em;	
+}
+#section_down{
+	position:absolute;
+    bottom:1px;
+    left:200px;
+    right:50px;              
+}
+
+#reg{
+	position:absolute;
+ 	top:90px;
+    left:975px;
+	height:6em;
+	width:6em;
+     }
