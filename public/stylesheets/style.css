@@ -1,11 +1,26 @@
 #border{
         border-style:solid;
-        border-width:5px;
+        border-width:2px;
 }
 html>body
 {
 width: auto;
-min-width: 40px
+min-width: 40px;
+
+
+  background-position: 50% 50%;
+
+}
+
+#background_image{
+	z-index:-1;
+	position: absolute;
+	left:10%;
+	opacity:0.5;
+	height: 40em;
+	width:60em;
+	filter: alpha(opacity=50);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
 #logo{
 	  padding-left:10px;
@@ -32,6 +47,7 @@ min-width: 40px
 	position:absolute;
 	left:790;
 	top:130px;
+	opacity:0.8;
 }
 
 #soon{
