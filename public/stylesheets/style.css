@@ -1,17 +1,14 @@
 #border{
         border-style:solid;
         border-width:2px;
-padding-left:8%;
-padding-right:8%;
-padding-top:2%;
-padding-bottom:2%;
+margin-left:10%;
+margin-right:10%;
+height:100%;
 }
 html>body
 {
 width: auto;
 min-width: 40px;
-
-
   background-position: 50% 50%;
 
 }
@@ -33,17 +30,19 @@ min-width: 40px;
 }
 
 #svn{
-	height:10em;
-	width:12em;
+	height:6em;
+	width:10em;
 }
 
 #address{
-       padding-left:10px;
+      padding-left:10px;
 	  padding-top:1px;
+	  font-size:18;
 }
 
 #one_stop{
     padding-left:10px;	
+    font-size:18;
 }
 
 #regis{
@@ -61,14 +60,13 @@ min-width: 40px;
 	width:10em;
 	}
 
-#links{
-	   border-style:solid;
-       border-width:1px;
-	   background-color:#C8C8C8;   
-	}
 	
 #navigation{
-	 padding-left:70px;
+	padding-left:70px;
+	border-style:solid;
+    border-width:1px;
+	border-color:black;
+	background-color:#C8C8C8;
 }	
 	
 td {
@@ -105,8 +103,10 @@ padding-bottom:100px;
 } 
 
 #section_down{
-	   border-style:solid;
-       border-width:1px;
-	   background-color:#C8C8C8;   
-	
+   	border-style:solid;
+    border-width:1px;
+   	background-color:#C8C8C8;
+   
+	margin-bottom:10px;
+     
 }
