@@ -1,6 +1,10 @@
 #border{
         border-style:solid;
         border-width:2px;
+padding-left:8%;
+padding-right:8%;
+padding-top:2%;
+padding-bottom:2%;
 }
 html>body
 {
@@ -34,9 +38,8 @@ min-width: 40px;
 }
 
 #address{
-         position:absolute;
-         top:80px;
-         left:250px;
+       padding-left:10px;
+	  padding-top:1px;
 }
 
 #one_stop{
