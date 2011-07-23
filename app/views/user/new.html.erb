@@ -1,7 +1,7 @@
 <h3>Register Now for Exciting offers ! </h3>
 
 <% form_for (@user,:url => {:action=> 'create'}) do |f| %>
-<table>
+<table id="signing_up">
   <tr>
     <td><b>First Name:</b></td>
     <td><%= f.text_field :first_name %></td>

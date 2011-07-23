@@ -1,112 +1,80 @@
-#border{
-        border-style:solid;
-        border-width:2px;
-margin-left:10%;
-margin-right:10%;
-height:100%;
+body{
+	background-color:white;
 }
-html>body
-{
-width: auto;
-min-width: 40px;
-  background-position: 50% 50%;
+
+#display {
+	padding-top:20px;
+	position:relative;
+}
+
+#notes{
+
+text-align:left;
 
 }
 
-#background_image{
-	z-index:-1;
-	position: absolute;
-	left:10%;
-	opacity:0.5;
-	height: 40em;
-	width:60em;
-	filter: alpha(opacity=50);
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-}
-#logo{
-	  padding-left:10px;
-	  padding-top:1px;
-	  
-}
-
-#svn{
-	height:6em;
-	width:10em;
-}
-
-#address{
-      padding-left:10px;
-	  padding-top:1px;
-	  font-size:18;
-}
-
-#one_stop{
-    padding-left:10px;	
-    font-size:18;
-}
-
-#regis{
-	position:absolute;
-	left:790;
-	top:130px;
-	opacity:0.8;
-}
-
-#soon{
-	position:absolute;
-    top:70px;
-    left:1000px;
-	height:8em;
-	width:10em;
-	}
-
+#signing_up{
+	padding-left:200px;
 	
+}
+
+#map{
+ height:18em;
+  width:21em;	
+padding-top:25px;
+padding-left:20px;	
+}
+
+#add_info{
+text-align:center;
+}
+
+#shop{
+  position:center;	
+  padding-left:97px;
+  height:18em;
+  width:21em;	
+}
+
+td {
+	width:550px;
+
+}
+
+#signing_up td {
+	width:200px;
+}
+
+#top{
+	padding-left:15px;
+	height:80px;
+}
+
+#whole{
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:2px;
+	padding-bottom:2px;
+	width:100%;
+}
+
 #navigation{
-	padding-left:70px;
+	padding-left:100px;
 	border-style:solid;
     border-width:1px;
 	border-color:black;
 	background-color:#C8C8C8;
-}	
-	
-td {
-	width:250px;
-	font-size:150%;
-	}
-	
-#image_gallery{
-	padding-left:50px;
-	padding-right:50px;	
-	padding-top:20px;
 }
 
-#im1,#im2,#im3,#im4,#im5,#im6{
-	height:8em;
-	width:8em;
-}
-
-#blank{
-	padding-bottom:100px;	
-}
-
-
-#contact_info{
-padding-left:400px;
-line-height: 200%;
-font-size:12px;
-padding-bottom:100px;
-}
-
-#map{
- 	height:10em;
-	width:10em;
-} 
-
-#section_down{
-   	border-style:solid;
+#section_down {
+	left:0; 
+	position:fixed;
+	text-align:center; 
+	bottom:0;
+	width:100%;
+	border-style:solid;
     border-width:1px;
-   	background-color:#C8C8C8;
-   
-	margin-bottom:10px;
-     
-}
+	border-color:black;
+	background-color:#C8C8C8;
+	
+	 }

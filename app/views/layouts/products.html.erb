@@ -2,11 +2,48 @@
 <body>
 <head>
   <%=stylesheet_link_tag 'style' %>
-</head>
-<title>SV Groceries</title>
+  <div id="whole">
+  <table id='top'>
+    <tr> 
+      <td><img id= "svn" src="/images/svg.jpg"></td>
+      <td> <h3>
+        7600 E Parkmeadows Drive,<br> 
+        Suite 850, Lone Tree, Co-80124<br>
+        Ph (303)-459-4929
+      </h3></td>
+      <td><h5>Timings:
+        Wed-Sat: 11AM - 9PM <br>
+        Sunday: 11AM - 8PM <br>
+        Tuesday: 5PM - 9PM <br>
+        </h5></td>
+    </tr>
+<tr>        <marquee behavior="scroll" >Great Price!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Great Quality!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Great Service!</marquee></tr>
+  </table>
+  <table id = "navigation">
+    <tr>
+      <td>
+        <a id = home href="home">Home</a>
+      </td>      
+      <td>
+        <a id = products href="show">Products</a>
+      </td>           
+      <td>  
+        <a id = Contact href="contact">Contact Us</a>
+      </td>
+      <td>
+        <a id = register href="register">Register</a>
+      </td>
+      </tr>
+  </table>
 
-  <img id = "background_image" src="/images/flag.gif"></img>
-  
+
 <%= yield%>
+<div id="section_down">
+    <center>
+  <p>       SV Groceries , LLC., 7600 E Parkmeadows Drive,#850, Lone Tree, Colorado -80124  © 2009 All rights reserved. 
+ </p>
+    </center>  
+</div>
+</div>
 </body>
 </html>
